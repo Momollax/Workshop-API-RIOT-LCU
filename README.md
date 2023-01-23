@@ -11,3 +11,6 @@ api documentation: http://www.mingweisamuel.com/lcu-schema/tool/#/ or https://lc
 DevTool: https://github.com/nomi-san/league-loader
 
 Python library: lcu_driver
+
+
+!! warning !! please do the workshop on windows
