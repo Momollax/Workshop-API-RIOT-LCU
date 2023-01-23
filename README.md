@@ -8,6 +8,8 @@ Riot make the lcu api to control the luncher client. We can use it to create too
 
 api documentation: http://www.mingweisamuel.com/lcu-schema/tool/#/ or https://lcu.vivide.re/
 
+RiotDevtool discord: https://discord.gg/riotgamesdevrel
+
 DevTool: https://github.com/nomi-san/league-loader
 
 Python library: lcu_driver
